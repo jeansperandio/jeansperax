@@ -1,4 +1,4 @@
-⚡ Hi, I’m Jean Sperandio
+⚡ Hi, I’m Jean Sperandio <br>
 👀 I’m interested in Python, Javascript, node.js, CSS and HTML
 🌱 I’m currently learning data analitics with python
 💙 I’m currently working on VAB
